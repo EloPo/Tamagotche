@@ -1,3 +1,12 @@
+/************************************************************\   						     	
+*	Criadores: Eloisa Potrich e João Victor de Souza     *	
+*	Versão do jogo: 1.0				     *	
+*	Objetivo: recriar um tamagotche em linguagem C de    *	
+*	maneira fácil e simples				     *	
+*							     *	
+*							     *	
+\************************************************************/     
+	
     #include <stdio.h>
     #include <stdlib.h>
     #include <locale.h>
