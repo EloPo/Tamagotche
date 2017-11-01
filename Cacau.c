@@ -3,7 +3,7 @@
     #include <locale.h>
     int main(){
 
-	setlocale (LC_ALL,"");
+	setlocale (LC_ALL,"portuguese");
 
     int fome,energia,saude,sono,higiene;
     int cozinha,banheiro,jogos,quarto,escolha,opcao; 
